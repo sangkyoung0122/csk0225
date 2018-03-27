@@ -9,6 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body>git연습중1
+			연습2 
 
 </body>
 </html>
